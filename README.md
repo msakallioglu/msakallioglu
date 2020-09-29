@@ -16,6 +16,11 @@
 
 ### Languages and Tools:
 
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=c)]()
+[![](https://img.shields.io/badge/C#-cD1?style=for-the-badge&logo=c#)]()
+
+
 
 
 
