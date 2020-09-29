@@ -19,6 +19,9 @@
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=c)]()
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=msakallioglu&show_icons=true&theme=radical)
+
+
 
 
 
