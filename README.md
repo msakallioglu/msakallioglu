@@ -10,6 +10,8 @@
 
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msklloglu/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msklloglu/)
+[![](https://img.shields.io/badge/website-%ffd700.svg?&style=for-the-badge&logo=wordpress&logoColor=white)]
+
 [![Mail Badge](https://img.shields.io/badge/msklloglu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:msklloglu@gmail.com)](mailto:msklloglu@gmail.com)
 
 
