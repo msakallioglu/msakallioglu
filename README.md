@@ -18,12 +18,12 @@
 
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)]()
-[![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![](https://img.shields.io/badge/c++%20-%23EB984E.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)]()
-[![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)]()
+[![](https://img.shields.io/badge/Flutter%20-%230F4D03F.svg?&style=for-the-badge&logo=Flutter&logoColor=white)]()
 [![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)]()
-[![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/mysql-%2373C6B6.svg?&style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ### Interests and Learning
 
