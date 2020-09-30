@@ -32,7 +32,7 @@
 - Machine Learning
 - Data Science
 
-### Games 🎮 & Spotify 🎶
+### 🎮Games & 🎶Spotify 
 
 [![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/loadingms/)
 [![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/msklloglu)
