@@ -19,8 +19,7 @@
 [![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=c)]()
 [![](https://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=c++)]()
 [![](https://img.shields.io/badge/sql-cD1?style=for-the-badge&logo=sql)]()
-[![](https://img.shields.io/badge/C Sharp-cD1?style=for-the-badge&logo=csharp)]()
-[![](https://img.shields.io/badge/Linux-cD1?style=for-the-badge&logo=Linux)]()
+[![](https://img.shields.io/badge/Linux-cD2style=for-the-badge&logo=Linux)]()
 
 ### Interests and Learning
 
