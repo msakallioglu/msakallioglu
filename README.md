@@ -36,7 +36,7 @@
 [![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/loadingms/)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=msakallioglu&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/apiusername=msakallioglu&show_icons=true&count_private=true&theme=dark)
 
 
 
