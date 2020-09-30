@@ -1,7 +1,8 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=msakallioglu&show_icons=true&theme=dark">
+
 ### Hi there, I'm Melike 👋
-
-## I'm a junior software developer
-
+### I'm a junior software developer
+  
 - 🔭 I’m currently working on a mobile app (flutter).
 - 🌱 I’m currently learning AI and ML.
 - ⚡ Fun fact: I love to playing computer games and reading books.
@@ -34,8 +35,6 @@
 ### Games 🎮 
 
 [![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/loadingms/)
-
-
 
 
 
