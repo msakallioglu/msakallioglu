@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[![](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)]()
@@ -30,6 +30,11 @@
 - Deep Learning
 - Machine Learning
 - Data Science
+
+### Games 
+
+[![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/loadingms/)
+
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=msakallioglu&show_icons=true&theme=radical)
 
