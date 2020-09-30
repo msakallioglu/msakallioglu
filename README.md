@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=c)]()
 [![](https://img.shields.io/badge/C++-cD1?style=for-the-badge)]()
-[![](https://img.shields.io/badge/sql-cD1?style=for-the-badge?color=fedcba)]()
+[![](https://img.shields.io/badge/sql-cD1?style=for-the-badge?color=64D7CA)]()
 [![](https://img.shields.io/badge/Linux-cD2style=for-the-badge&logo=Linux)]()
 
 <p><button class="w3-btn w3-black">Button
