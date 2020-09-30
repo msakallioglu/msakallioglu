@@ -15,11 +15,11 @@
 
 ### Languages and Tools:
 
-[![](https://img.shields.io/badge/python?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=c)]()
-[![](https://img.shields.io/badge/C++?style=for-the-badge)]()
-[![](https://img.shields.io/badge/sql?style=for-the-badge?color=64D7CA)]()
-[![](https://img.shields.io/badge/Linux?style=for-the-badge&logo=Linux)]()
+[![](https://img.shields.io/badge/python-%F39C12.svg?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/C-%E74C3C.svg?style=for-the-badge&logo=c)]()
+[![](https://img.shields.io/badge/C++-cD1?style=for-the-badge)]()
+[![](https://img.shields.io/badge/sql-cD1?style=for-the-badge)]()
+[![](https://img.shields.io/badge/Linux-cD1?style=for-the-badge&logo=Linux)]()
 
 
 ### Interests and Learning
