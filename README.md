@@ -21,6 +21,10 @@
 [![](https://img.shields.io/badge/sql-cD1?style=for-the-badge&logo=sql)]()
 [![](https://img.shields.io/badge/Linux-cD2style=for-the-badge&logo=Linux)]()
 
+<p><button class="w3-btn w3-black">Button
+<span class="w3-badge w3-margin-left w3-white">1</span>
+</button></p>
+
 ### Interests and Learning
 
 - Artificial Intelligence
