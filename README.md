@@ -15,12 +15,14 @@
 
 ### Languages and Tools:
 
-[![](https://img.shields.io/badge/python-%F39C12.svg?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/C-%E74C3C.svg?style=for-the-badge&logo=c)]()
-[![](https://img.shields.io/badge/C++-cD1?style=for-the-badge)]()
-[![](https://img.shields.io/badge/sql-cD1?style=for-the-badge)]()
-[![](https://img.shields.io/badge/Linux-cD1?style=for-the-badge&logo=Linux)]()
-
+[![](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)]()
+[![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)]()
+[![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)]()
+[![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)]()
+[![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ### Interests and Learning
 
