@@ -15,7 +15,6 @@
 [![Mail Badge](https://img.shields.io/badge/msklloglu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:msklloglu@gmail.com)](mailto:msklloglu@gmail.com)
 
 ### Languages and Tools:
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msakallioglu&hide=html&layout=compact&theme=radical" />
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://github.com/msakallioglu/My-works-in-c-and-cpp)
 [![](https://img.shields.io/badge/c++%20-%23EB984E.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/msakallioglu/My-works-in-c-and-cpp)
