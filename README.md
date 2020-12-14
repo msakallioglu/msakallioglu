@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=msakallioglu&show_icons=true&theme=dark">
+<img width="400px" align='right' src="https://github-readme-stats.vercel.app/api?username=msakallioglu&show_icons=true&theme=dark">
 
 ### Hi there, I'm Melike 👋
 ### I'm a junior software developer
