@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/website-%ffd700.svg?&style=for-the-badge&logo=wordpress&logoColor=white)](https://msklloglu.wordpress.com/)
 [![Mail Badge](https://img.shields.io/badge/msklloglu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:msklloglu@gmail.com)](mailto:msklloglu@gmail.com)
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msakallioglu&theme=radical" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msakallioglu&hide=html&layout=compact&theme=radical" />
 
 ### Languages and Tools:
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
