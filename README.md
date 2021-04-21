@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on a mobile app (flutter).
 - 🌱 I’m currently learning AI and ML.
-- ⚡ Fun fact: I love to playing computer games and reading books.
+- ⚡ Fun fact: I love playing computer games and reading books.
 
 ### Connect with me:
 
